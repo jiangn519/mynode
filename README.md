@@ -1,1 +1,2 @@
 # mynode
+git config 
